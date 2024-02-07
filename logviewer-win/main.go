@@ -90,7 +90,7 @@ func dieOnError(s string, err error) {
 
 // 실행 코드.
 ///Linux : home/sfs/go/src/logviewer/logviewer 01059132451 20240102
-///Windows : ./logviewer 01059132451 20240102
+///Windows : ./logviewer-win 01059132451 20240102
 
 /* goracle code
 //SMS_MSG : utf-8 -> euc-kr test
